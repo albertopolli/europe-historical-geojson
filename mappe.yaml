@@ -126,12 +126,14 @@ maps:
     territori:
       Prussia:
         - PL41 # Pomerania
+        - DE8
         #- PL415 # Posen
         #- PL417
         #- PL411
         #- PL418
         - PL6 # Pomerania
         - 103906 # Konigsberg
+       
       Renania:
         - DE5
         - DE6
