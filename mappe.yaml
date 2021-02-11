@@ -186,6 +186,10 @@ maps:
         - NL
         - LU
   Prussia:
+    citta:
+    - address: Berlino, Germania
+    - address: Amburgo, Germania
+    - address: Monaco di baviera, Germania 
     config:
       facecolor1: "#c37437"
       facecolor2: "#c54e25"
@@ -308,6 +312,7 @@ maps:
         - TR7
         - TR8
   France:
+  citta
     config:
       facecolor1: "#a676c9"
       facecolor2: "#6d1195"
